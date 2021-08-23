@@ -1,0 +1,7 @@
+---
+all:
+  hosts:
+    csr1.marcinkurek.com:
+  vars:
+          
+   
